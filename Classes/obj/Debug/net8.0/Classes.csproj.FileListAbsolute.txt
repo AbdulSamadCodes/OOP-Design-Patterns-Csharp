@@ -1,0 +1,14 @@
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Classes\bin\Debug\net8.0\Classes.exe
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Classes\bin\Debug\net8.0\Classes.deps.json
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Classes\bin\Debug\net8.0\Classes.runtimeconfig.json
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Classes\bin\Debug\net8.0\Classes.dll
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Classes\bin\Debug\net8.0\Classes.pdb
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Classes\obj\Debug\net8.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Classes\obj\Debug\net8.0\Classes.AssemblyInfoInputs.cache
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Classes\obj\Debug\net8.0\Classes.AssemblyInfo.cs
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Classes\obj\Debug\net8.0\Classes.csproj.CoreCompileInputs.cache
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Classes\obj\Debug\net8.0\Classes.dll
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Classes\obj\Debug\net8.0\refint\Classes.dll
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Classes\obj\Debug\net8.0\Classes.pdb
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Classes\obj\Debug\net8.0\Classes.genruntimeconfig.cache
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Classes\obj\Debug\net8.0\ref\Classes.dll

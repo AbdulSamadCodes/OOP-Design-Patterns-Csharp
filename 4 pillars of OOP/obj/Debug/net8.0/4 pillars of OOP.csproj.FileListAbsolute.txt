@@ -1,0 +1,14 @@
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\4 pillars of OOP\bin\Debug\net8.0\4 pillars of OOP.exe
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\4 pillars of OOP\bin\Debug\net8.0\4 pillars of OOP.deps.json
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\4 pillars of OOP\bin\Debug\net8.0\4 pillars of OOP.runtimeconfig.json
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\4 pillars of OOP\bin\Debug\net8.0\4 pillars of OOP.dll
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\4 pillars of OOP\bin\Debug\net8.0\4 pillars of OOP.pdb
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\4 pillars of OOP\obj\Debug\net8.0\4 pillars of OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\4 pillars of OOP\obj\Debug\net8.0\4 pillars of OOP.AssemblyInfoInputs.cache
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\4 pillars of OOP\obj\Debug\net8.0\4 pillars of OOP.AssemblyInfo.cs
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\4 pillars of OOP\obj\Debug\net8.0\4 pillars of OOP.csproj.CoreCompileInputs.cache
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\4 pillars of OOP\obj\Debug\net8.0\4 pillars of OOP.dll
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\4 pillars of OOP\obj\Debug\net8.0\refint\4 pillars of OOP.dll
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\4 pillars of OOP\obj\Debug\net8.0\4 pillars of OOP.pdb
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\4 pillars of OOP\obj\Debug\net8.0\4 pillars of OOP.genruntimeconfig.cache
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\4 pillars of OOP\obj\Debug\net8.0\ref\4 pillars of OOP.dll

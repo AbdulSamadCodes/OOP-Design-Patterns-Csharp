@@ -1,0 +1,14 @@
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Interfaces\bin\Debug\net8.0\Interfaces.exe
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Interfaces\bin\Debug\net8.0\Interfaces.runtimeconfig.json
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Interfaces\bin\Debug\net8.0\Interfaces.dll
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Interfaces\obj\Debug\net8.0\Interfaces.dll
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Interfaces\obj\Debug\net8.0\Interfaces.genruntimeconfig.cache
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll
