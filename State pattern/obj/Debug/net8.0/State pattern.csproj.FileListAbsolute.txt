@@ -1,0 +1,15 @@
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\State pattern\bin\Debug\net8.0\State pattern.exe
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\State pattern\bin\Debug\net8.0\State pattern.deps.json
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\State pattern\bin\Debug\net8.0\State pattern.runtimeconfig.json
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\State pattern\bin\Debug\net8.0\State pattern.dll
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\State pattern\bin\Debug\net8.0\State pattern.pdb
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\State pattern\obj\Debug\net8.0\State pattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\State pattern\obj\Debug\net8.0\State pattern.AssemblyInfoInputs.cache
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\State pattern\obj\Debug\net8.0\State pattern.AssemblyInfo.cs
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\State pattern\obj\Debug\net8.0\State pattern.csproj.CoreCompileInputs.cache
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\State pattern\obj\Debug\net8.0\State pattern.sourcelink.json
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\State pattern\obj\Debug\net8.0\State pattern.dll
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\State pattern\obj\Debug\net8.0\refint\State pattern.dll
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\State pattern\obj\Debug\net8.0\State pattern.pdb
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\State pattern\obj\Debug\net8.0\State pattern.genruntimeconfig.cache
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\State pattern\obj\Debug\net8.0\ref\State pattern.dll
