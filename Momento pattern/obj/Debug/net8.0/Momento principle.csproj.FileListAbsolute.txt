@@ -1,0 +1,15 @@
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Momento principle\bin\Debug\net8.0\Momento principle.exe
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Momento principle\bin\Debug\net8.0\Momento principle.deps.json
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Momento principle\bin\Debug\net8.0\Momento principle.runtimeconfig.json
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Momento principle\bin\Debug\net8.0\Momento principle.dll
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Momento principle\bin\Debug\net8.0\Momento principle.pdb
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Momento principle\obj\Debug\net8.0\Momento principle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Momento principle\obj\Debug\net8.0\Momento principle.AssemblyInfoInputs.cache
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Momento principle\obj\Debug\net8.0\Momento principle.AssemblyInfo.cs
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Momento principle\obj\Debug\net8.0\Momento principle.csproj.CoreCompileInputs.cache
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Momento principle\obj\Debug\net8.0\Momento principle.sourcelink.json
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Momento principle\obj\Debug\net8.0\Momento principle.dll
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Momento principle\obj\Debug\net8.0\refint\Momento principle.dll
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Momento principle\obj\Debug\net8.0\Momento principle.pdb
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Momento principle\obj\Debug\net8.0\Momento principle.genruntimeconfig.cache
+E:\Programming Languages\Csharp,Windowsform and LINQ\Object-Oriented design patterns(C#)\Momento principle\obj\Debug\net8.0\ref\Momento principle.dll
